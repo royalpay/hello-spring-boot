@@ -1,0 +1,17 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: hello-spring-boot
+
+ribbon:
+  ServerListRefreshInterval: 1000
+
+endpoints:
+  health:
+    sensitive: false
+  restart:
+    enabled: true
+  shutdown:
+    enabled: true
