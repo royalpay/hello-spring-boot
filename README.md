@@ -9,7 +9,7 @@
 `docker build -t hello-spring-boot .`
 
 #### Run hello-spring-boot container
-`docker run --name="hello-spring-boot" -p 8080:80 -d hello-node `
+`docker run --name="hello-spring-boot" -p 8080:80 -d hello-spring-boot `
 
 #### Visit hello-spring-boot container
 
