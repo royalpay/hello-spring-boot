@@ -1,7 +1,7 @@
 # Docker Spring App example
 
 #### Clone hello-spring-boot
-`https://github.com/royalpay/hello-spring-boot.git`
+`git clone https://github.com/royalpay/hello-spring-boot.git`
 
 #### Build hello-spring-boot docker image
 `cd hello-spring-boot`
