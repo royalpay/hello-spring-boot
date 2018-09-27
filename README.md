@@ -5,7 +5,7 @@
 
 #### Build hello-spring-boot docker image
 `cd hello-spring-boot`
-
+`mvn package`
 `docker build -t hello-spring-boot .`
 
 #### Run hello-spring-boot container
