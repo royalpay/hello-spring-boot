@@ -11,7 +11,7 @@
 `mvn dockerfile:build`
 
 #### Run hello-spring-boot container
-`docker run --name="hello-spring-boot" -p 8080:80 -d hello-spring-boot `
+`docker run --name="hello-spring-boot" -p 8080:80 -d hello-spring-boot:0.1.0 `
 
 #### Visit hello-spring-boot container
 
