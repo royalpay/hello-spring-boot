@@ -1,4 +1,4 @@
-# Docker Spring App example
+# Docker Spring boot App example
 
 #### Clone hello-spring-boot
 `git clone https://github.com/royalpay/hello-spring-boot.git`
